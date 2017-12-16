@@ -9,6 +9,8 @@ Now that I a finished my bachelor degree in mathematics, it is time to return fr
 I have already explored the basics of the theory. That is:
 * Course by <a href="http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml">Tom Mitchell and Maria-Florina Balcan's course on machine learning</a>
 * Course by <a href="https://www.coursera.org/learn/machine-learning">Andrew Ng.</a>
+* Course by <a href="https://www.youtube.com/watch?v=PlhFWT7vAEw&list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu">Nando de Freitas</a> on Deep learning.
+
 These courses are great for theoretical knowledge, understanding the intuition, bounds, complexity, and generalization guarantees of many algorithms in use today.
 
 One problem with them both though, neither of them Use <i>Python</i> as their programming language. Although this might be regard as a minor inconvenience, I believe that <i>Python</i> is the modern way to work. 
